@@ -186,7 +186,7 @@ See resource: [http://git-scm.com/docs/git-status](http://git-scm.com/docs/git-s
 
 14. **B**, The command `git add` will stage files in a git repository.  
 See video: [https://www.youtube.com/watch?v=8prk2qyKDgQ](https://www.youtube.com/watch?v=8prk2qyKDgQ)  
-See resource: [http://git-scm.com/doc s/git-add](http://git-scm.com/doc s/git-add)
+See resource: [http://git-scm.com/docs/git-add](http://git-scm.com/doc s/git-add)
 
 15. **C**, The command `git reset (filename)` will unstage the file specified in (filename).  
 See video: [https://www.youtube.com/watch?v=8prk2qyKDgQ](https://www.youtube.com/watch?v=8prk2qyKDgQ)  
